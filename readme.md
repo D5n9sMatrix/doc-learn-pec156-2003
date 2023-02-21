@@ -1,5 +1,5 @@
-# welcome thought active
-software editor thought active microsoft d lang
+# welcome doc learn pec 156 % 2003
+software doc learn active microsoft d language
 
 ```d
 //.
